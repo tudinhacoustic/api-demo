@@ -1,0 +1,24 @@
+Cài ð?t:
+npm install --save react react-dom
+npm install -D webpack babel-core babel-loader babel-preset-react babel-preset-es2015
+
+--------------------------------------------------------------------------------------
+Ghi chú:
+react: The react package contains only the functionality necessary 
+to define React components. It is typically used together with 
+a React renderer like react-dom for the web, 
+or react-native for the native environments.
+
+react-dom: The package serves as the entry point to the DOM and server renderers for React
+It is intended to be paired with(ghép v?i) the generic package, 
+which is shipped as react to npm
+
+webpack:
+webpack is a module bundler. Its main purpose is to bundle JavaScript files
+for usage in a browser, yet it is also capable of transforming, bundling,
+or packaging just about any resource or asset.
+
+babel-core:
+babel-loader
+babel-preset-react
+babel-preset-es2015

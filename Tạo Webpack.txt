@@ -1,0 +1,7 @@
+Cài ð?t:
+touch webpack.config.js
+
+Watchmode:
+Watchmode helps you follow your files and when it have any changes, it will
+immediately build and export file output
+How: npx webpack --mode=production --watch
